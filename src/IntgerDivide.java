@@ -92,5 +92,6 @@ public class IntgerDivide {
         System.out.println(subtractionDivide(Integer.MIN_VALUE,-1));
         System.out.println(substationDivideImprove(Integer.MAX_VALUE,2));
         System.out.println(substationDivideImprove(Integer.MIN_VALUE,-1));
+        System.out.println(substationDivideImprove(Integer.MIN_VALUE,-1));
     }
 }
