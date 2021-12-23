@@ -7,7 +7,6 @@
  * 当发生溢出时，返回最大的整数值。假设除数不为0。例如，输入15和2，输出15/2的结果，即7。
  */
 public class IntegerDivide {
-
     /**
      * @param dividend 被除数
      * @param divisor 除数
